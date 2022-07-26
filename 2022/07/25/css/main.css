@@ -1,0 +1,97 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+.main-header {
+	color: seagreen;
+	inline-size: min-content;
+	white-space: nowrap;
+	padding: .25em .6em;
+	margin: 0;
+}
+
+.main-header h1 {
+	font-size: 3em;
+	padding: 0;
+	margin: 0;
+}
+
+.main-header h2 {
+	padding: 0 1.5em;
+	margin: 0;
+	font-size: .6em;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.dropdown {
+	padding: 2em 1em;
+}
+
+.login div {
+	margin: 2em;
+}
+
+.login div a {
+	background-color: white;
+	color: black;
+	border: 0;
+	border-radius: 1.5em;
+	padding: .75em 1.5em;
+	font-size: 1em;
+	margin: 1.25em 0;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.login div a:hover {
+	background-color: seagreen;
+	color: white;
+	border: 0;
+	border-radius: 1.5em;
+	padding: .75em 1.5em;
+	font-size: 1em;
+	margin: 1.25em 0;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.login button {
+	background-color: seagreen;
+	border: 0;
+	border-radius: 1.5em;
+	padding: .75em 1.5em;
+	font-size: 1em;
+	margin: 1.25em 2em 1.25em 0;
+	font-weight: bold;
+}
+
+.login button a {
+	text-decoration: none;
+	color: white;
+}
+
+nav {
+	clear: both;
+	background-color: black;
+	padding: 1em 0;
+	margin: 1em 0;
+	color: white;
+	height: 1.25em;
+}
+
+nav section div {
+	padding: 0 .6em;
+}
+
+main {
+	clear: both;
+	padding: 0 2em;
+}

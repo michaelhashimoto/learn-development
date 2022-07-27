@@ -1,0 +1,116 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#main-container {
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	color: seagreen;
+	margin: .5em;
+	inline-size: min-content;
+	white-space: nowrap;
+}
+
+header h1 {
+	font-size: 4em;
+	padding: 0;
+	margin: 0;
+	line-height: 1em;
+}
+
+header sub {
+	font-size: 1em;
+	font-weight: bold;
+	padding: 0 1em;
+	margin: 0;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.link {
+	padding: 0;
+	margin: 3em 1em;
+}
+
+button {
+	padding: 1em 1.75em;
+	border-radius: 1.5em;
+	margin: 2em 1.5em;
+	border: 0;
+	background: seagreen;
+	color: white;
+	font-weight: bold;
+}
+
+#website-btn {
+	background: white;
+	color: black;
+}
+
+#website-btn:hover {
+	background: seagreen;
+	color: white;
+}
+
+#login-btn {
+	padding: 1em 2em;
+}
+
+#login-btn:hover {
+	color: lightgray;
+}
+
+nav {
+	clear: both;
+	background: black;
+	color: white;
+	padding: 1em;
+	margin: 0;
+	height: 1.25em;
+}
+
+nav div {
+	padding: 0 .5em;
+}
+
+.nav-icon {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-icon a {
+	color: white;
+	padding: 1em .5em;
+}
+
+.nav-icon a:hover {
+	background: seagreen;
+}
+
+.nav-item {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-item a {
+	color: white;
+	text-decoration: none;
+	margin: 0;
+	padding: 1em .5em;
+}
+
+.nav-item a:hover {
+	color: white;
+	background: seagreen;
+}

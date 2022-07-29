@@ -1,0 +1,95 @@
+body {
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+main {
+	clear: both;
+	padding: 0;
+	margin: 0;
+}
+
+#viewport {
+	background: black;
+	height: 500px;
+	width: auto;
+	padding: 0;
+	margin: 0;
+}
+
+#video {
+	background: whitesmoke;
+	display: none;
+	height: 500px;
+	width: 100px;
+	padding: 100px;
+	margin: 0;
+}
+
+nav {
+	background: #202020;
+	height: 56px;
+	color: white;
+	padding: 0;
+	margin: 0;
+}
+
+#menu {
+	padding: 0;
+	margin: 0;
+}
+
+#menu h1 {
+	margin-block-start: 0;
+	margin-block-end: 0;
+	font-size: 20px;
+	padding: 15px;
+	margin: 0;
+}
+
+#menu div {
+	padding: 20px;
+	margin: 0;
+}
+
+#menu div i {
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+
+#search-bar {
+	padding: 10px;
+	margin: 0 0 0 350px;
+}
+
+#search-bar input {
+	padding: .5em;
+	width: 300px;
+	margin: 0;
+}
+
+#search-bar div {
+	padding: 10px;
+	margin: 0;
+}
+
+#login {
+	padding: 0;
+	margin: 0;
+}
+
+#login div {
+	padding: 0 10px;
+	margin: 0;
+}

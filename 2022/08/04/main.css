@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: sans-serif;
+	background: lightcyan;
+}
+
+.nav-main {
+	display: grid;
+	gap: 1rem;
+	grid-template-columns: repeat(12, 1fr);
+
+	padding: .5rem;
+}
+
+.nav-item {
+	padding: 1rem;
+	margin: 0;
+	width: fit-content;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 1rem;
+    margin: 0;
+    color: darkblue;
+}
+
+.nav-left {
+	grid-column: span 10;
+}
+
+.nav-right {
+	padding: 1rem;
+	margin: 0;
+}

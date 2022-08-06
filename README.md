@@ -9,3 +9,4 @@
 * [2022-08-01](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/01/index.html)
 * [2022-08-02](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/02/index.html)
 * [2022-08-04](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/04/index.html)
+* [2022-08-06](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/06/index.html)

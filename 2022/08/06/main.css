@@ -1,7 +1,93 @@
 * {
 	box-sizing: border-box;
+	font-family: sans-serif;
+	color: #15317E;
 }
 
 html, body {
 	background-color: rgb(237,223,216);
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+}
+
+.center {
+	display: grid;
+	justify-content: center;
+}
+
+.main-header {
+	display: grid;
+	grid-template-columns: 6fr 1fr;
+}
+
+.home {
+	font-weight: normal;
+	font-size: 1rem;
+	padding: 1rem;
+	margin: .25rem;
+}
+
+.nav-main {
+	display: flex;
+	flex-direction: row-reverse;
+	gap: 1rem;
+	padding: 1rem;
+	margin: .25rem;
+}
+
+.title {
+	padding: 0;
+	margin: 5rem 0 2rem 0;
+	font-size: 4rem;
+	font-weight: bolder;
+}
+
+.skills {
+	font-size: 1.5rem;
+	padding: 0;
+	margin: 2rem 0 5rem 0;
+}
+
+.current-work {
+	font-size: 1.5rem;
+	margin: 5rem 0 10rem 0;
+}
+
+.current-work h3 {
+	font-size: 1.5rem;
+}
+
+.pantheon-video {
+	background-color: yellow;
+	border-style: none;
+	width: 560px;
+	height: 315px;
+}
+
+.images {
+	max-width: 90rem;
+	display: flex;
+	gap: 2rem;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.images img {
+	max-width: 28rem;
+	max-height: 25rem;
+	justify-content: space-evenly;
+}
+
+.images a:hover div {
+	color: black;
+}
+
+.contact {
+	padding: 4rem 0 2rem 0;
 }

@@ -11,3 +11,5 @@
 * [2022-08-04](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/04/index.html)
 * [2022-08-06](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/06/index.html)
 * [2022-08-09](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/09/index.html)
+* [2022-08-10](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/10/index.html)
+* [2022-08-11](https://htmlpreview.github.io/?https://github.com/michaelhashimoto/learn-development/blob/main/2022/08/11/index.html)
